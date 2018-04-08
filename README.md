@@ -8,6 +8,6 @@
 
 # How does that actually works?
 - First of all you need to log in your LoL account in Client
-# EVERY LOL ACCOUNT HAS HIS OWN CONFIG
+ EVERY LOL ACCOUNT HAS HIS OWN CONFIG
 - After login you can manage your CFGs
 
