@@ -2,7 +2,7 @@
 
 - You can manage your configs
 - Save them to the folder and replace whenever you want
-- Save path of configs unfortunately you cant change, but its actually brilliant. If you will lose this script, everything is in config folder (\League of Legends\Config\Saved CFGs) and you can change configs manually.
+- Save path of configs unfortunately you cant change(\League of Legends\Config\Saved CFGs)
 
 ![alt text](https://i.imgur.com/uZXhy53.png "2")
 ![alt text](https://i.imgur.com/Tt44mQQ.png "1")
