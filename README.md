@@ -1,6 +1,6 @@
 # LoL Config Manager
 
-- Save / Replace cfgs easily
+- Easiest way how to Save / Replace cfgs
 - cfg save path == (\League of Legends\Config\Saved CFGs)
 
 ![alt text](https://i.imgur.com/uZXhy53.png "2")
